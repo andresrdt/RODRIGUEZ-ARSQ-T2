@@ -1,1 +1,4 @@
 com\example\demo\DemoApplication.class
+com\example\demo\Services\HttpConnection.class
+com\example\demo\conection\weatherConection.class
+com\example\demo\controllers\cityController.class
