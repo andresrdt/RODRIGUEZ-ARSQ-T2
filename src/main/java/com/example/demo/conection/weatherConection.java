@@ -12,5 +12,5 @@ import com.example.demo.Services.HttpConnection;
  * @author 2112076
  */
 public class weatherConection {
-    HttpConnection con;
+    //HttpConnection con;
 }

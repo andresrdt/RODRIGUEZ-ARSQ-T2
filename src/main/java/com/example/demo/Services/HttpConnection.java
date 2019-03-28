@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class HttpConnection {
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String GET_URL = "http://api.openweathermap.org/data/2.5/weather?q="+"&appid=3de29df7466c854dfb17d5c9b0eaad41";
+    private static final String GET_URL = "http://api.openweathermap.org/data/2.5/weather?q=";
     private static final String api="&appid=3de29df7466c854dfb17d5c9b0eaad41";  
     /**
      * 
